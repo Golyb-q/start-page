@@ -1,0 +1,68 @@
+{
+  "bg": {
+    "color": "#fd99ff",
+    "image": "./import/wallpaper.jpg",
+    "mode": "cover"
+  },
+  "theme": "system",
+  "engines": [
+    {
+      "id": "google",
+      "name": "Google",
+      "icon": "G",
+      "url": "https://www.google.com/search?q=%s"
+    },
+    {
+      "id": "yandex",
+      "name": "Яндекс",
+      "icon": "Я",
+      "url": "https://yandex.ru/search/?text=%s"
+    },
+    {
+      "id": "ddg",
+      "name": "DuckDuckGo",
+      "icon": "D",
+      "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+      "id": "bing",
+      "name": "Bing",
+      "icon": "B",
+      "url": "https://www.bing.com/search?q=%s"
+    }
+  ],
+  "defaultEngine": "google",
+  "activeEngine": "yandex",
+  "searchHistory": [
+    "2ip.ru"
+  ],
+  "tiles": [
+    {
+      "id": "42828b46-8104-4416-98ca-5e45f31c5e7a",
+      "name": "Wikipedia",
+      "url": "https://wikipedia.org/",
+      "image": "",
+      "w": 1,
+      "h": 1,
+      "label": false
+    },
+    {
+      "id": "6ec86a90-9aec-4f87-8ec5-df32a713c914",
+      "name": "GitHub",
+      "url": "https://github.com/",
+      "image": "",
+      "w": 1,
+      "h": 1,
+      "label": false
+    },
+    {
+      "id": "e907343c-34f6-4486-b7f0-f4d24660dd5c",
+      "name": "Arch Wiki",
+      "url": "https://wiki.archlinux.org/",
+      "image": "",
+      "w": 1,
+      "h": 1,
+      "label": false
+    }
+  ]
+}

@@ -1,48 +1,63 @@
 {
   "bg": {
     "color": "#fd99ff",
-    "image": "https://wallpaperaccess.com/full/8351230.gif",
-    "mode": "cover"
+    "image": "https://art.pixilart.com/580cd0ea9425d83.gif",
+    "mode": "auto"
   },
   "theme": "system",
   "engines": [
     {
       "id": "google",
       "name": "Google",
-      "icon": "G",
+      "icon": "",
       "url": "https://www.google.com/search?q=%s"
     },
     {
       "id": "yandex",
       "name": "Яндекс",
-      "icon": "Я",
+      "icon": "",
       "url": "https://yandex.ru/search/?text=%s"
     },
     {
       "id": "ddg",
       "name": "DuckDuckGo",
-      "icon": "D",
+      "icon": "",
       "url": "https://duckduckgo.com/?q=%s"
     },
     {
       "id": "bing",
       "name": "Bing",
-      "icon": "B",
+      "icon": "",
       "url": "https://www.bing.com/search?q=%s"
     },
     {
       "id": "762455b3-f8ea-490a-b48d-0d44904be272",
       "name": "Nyxis",
-      "url": "http://nyxis.i2p/search?q=%s"
+      "url": "http://nyxis.i2p/search?q=%s",
+      "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cellipse cx='16' cy='16' rx='14' ry='9' fill='none' stroke='%236bdfff' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='4.5' fill='%236bdfff'/%3E%3Ccircle cx='16' cy='16' r='1.5' fill='%230a0e14'/%3E%3C/svg%3E"
     }
   ],
   "defaultEngine": "google",
   "activeEngine": "yandex",
   "searchHistory": [
+    "https://magma.com/d/Dp1a7DJRnn",
+    "ее",
+    "текст ту спич расширение",
+    "ш2зв",
+    "test",
     "qqq",
     "2ip.ru"
   ],
   "tiles": [
+    {
+      "id": "24645fdf-9f94-48e7-bcd1-ffaa02d6c5d1",
+      "name": "Yandex",
+      "url": "https://ya.ru",
+      "image": "https://cyber.dabamos.de/88x31/yandex.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
     {
       "id": "b2e70462-e24c-4414-8ca6-8a7e3836f92a",
       "name": "Button Generator",
@@ -65,16 +80,7 @@
       "id": "19bd2fbd-33b3-406d-a7bf-302aee974a63",
       "name": "twitter",
       "url": "https://x.com/home",
-      "image": "https://cyber.dabamos.de/88x31/twitterbutton.gif",
-      "w": 1.5,
-      "h": 1.5,
-      "label": false
-    },
-    {
-      "id": "24645fdf-9f94-48e7-bcd1-ffaa02d6c5d1",
-      "name": "Yandex",
-      "url": "ya.ru",
-      "image": "https://cyber.dabamos.de/88x31/yandex.gif",
+      "image": "https://yesterhost.neocities.org/archive/buttons/button454.gif",
       "w": 1.5,
       "h": 1.5,
       "label": false
@@ -91,7 +97,7 @@
     {
       "id": "0bbf203a-5b07-4ffa-9cde-b03662b0f109",
       "name": "BTDigg",
-      "url": "https://btdig.com/index.html",
+      "url": "http://ru.btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/index.html",
       "image": "https://88x31imgs.blob.core.windows.net/images/seedyourtorrents.gif",
       "w": 1.5,
       "h": 1.5,
@@ -110,6 +116,96 @@
       "id": "e0e43cb7-9d33-4338-bced-72d54a8896ee",
       "name": "2ip",
       "url": "https://2ip.ru/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e239ee75-fbcc-45f7-bc36-c7296bc4d7c4",
+      "name": "Google",
+      "url": "https://www.google.com/?hl=ru_ru",
+      "image": "https://cyber.dabamos.de/88x31/google.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "c93b54e5-a744-4799-b19e-5037df9468ba",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "image": "https://pizzalair.neocities.org/radbuttons/ytbutton.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e3cc039a-a46b-4c92-af5d-057ee821d48c",
+      "name": "Neocities",
+      "url": "https://neocities.org/",
+      "image": "https://yesterhost.neocities.org/archive/buttons/button449.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "aa7cc0fc-0709-4dae-b897-bf331d58e84c",
+      "name": "TikTok",
+      "url": "https://tiktok.com/",
+      "image": "https://yesterhost.neocities.org/archive/buttons/button352.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "ea705113-3a80-478a-aabc-dcae1fb795d4",
+      "name": "i2pd",
+      "url": "http://i2pd.i2p/",
+      "image": "https://psv4.vkuserphoto.ru/s/v1/d2/KFt6itXP6jN2JQSyhP5RLCwCyMYCjOfMYmXTszufGkGsHvy-jlkFx7uYmcp_6lALI5oBk7jKCL5chF5lMj_KOmnau_Rd-SYtqyNQIUbe5W-9PFcr5pqKuJvwwLpK3qSm8QGIdm3AsbVY/i2pd-button-88x31.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "d4ab4153-c4fd-42fb-9183-96f555e166db",
+      "name": "Chat GPT",
+      "url": "https://chatgpt.com/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "5b0e04e8-a5dd-4438-a0ce-71f4dc2251e6",
+      "name": "ВКонтакте",
+      "url": "https://vk.ru/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "92d60029-0833-4bdd-ab08-e24c1a220326",
+      "name": "Magma",
+      "url": "https://magma.com/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "180778d0-0aef-4e8e-95d2-665763f49962",
+      "name": "Unredacted",
+      "url": "https://unredacted.org/",
+      "image": "https://unredacted.org/wp-content/uploads/2024/07/new_unredacted_logo-e1720217150918-768x145.png",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "f9ba02fd-9bc0-4111-b612-500d01d174ce",
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/",
       "image": "",
       "w": 1.5,
       "h": 1.5,

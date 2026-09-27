@@ -1,0 +1,72 @@
+{
+  "bg": {
+    "color": "#050505",
+    "image": "https://i.pinimg.com/originals/c0/36/28/c03628e7339e0d492cdd077acb6a9e8f.gif",
+    "mode": "cover"
+  },
+  "theme": "dark",
+  "engines": [
+    {
+      "id": "google",
+      "name": "Google",
+      "url": "https://www.google.com/search?q=%s"
+    },
+    {
+      "id": "yandex",
+      "name": "Яндекс",
+      "url": "https://yandex.ru/search/?text=%s"
+    },
+    {
+      "id": "ddg",
+      "name": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+      "id": "bing",
+      "name": "Bing",
+      "url": "https://www.bing.com/search?q=%s"
+    }
+  ],
+  "defaultEngine": "google",
+  "activeEngine": "yandex",
+  "searchHistory": [
+  ],
+  "tiles": [
+    {
+      "id": "4fde6f7c-cd74-4435-a401-aaea47dd8619",
+      "name": "GitHub",
+      "url": "https://github.com/",
+      "image": "https://88x31imgs.blob.core.windows.net/images/github.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "5a78d193-4482-44f4-9a3d-1a6f7783b689",
+      "name": "astana_hub",
+      "url": "https://astanahub.com/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e6c463b4-819e-4edf-9af6-32de156313ce",
+      "name": "HeadHunter",
+      "url": "https://hh.kz/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "64af05ba-6165-46d8-9f53-8e02c8195f13",
+      "name": "School 21",
+      "url": "https://platform.21-school.ru/projects/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    }
+  ]
+}

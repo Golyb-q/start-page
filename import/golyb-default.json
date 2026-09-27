@@ -1,0 +1,343 @@
+{
+  "bg": {
+    "color": "#fd99ff",
+    "image": "https://art.pixilart.com/580cd0ea9425d83.gif",
+    "mode": "auto"
+  },
+  "theme": "system",
+  "engines": [
+    {
+      "id": "google",
+      "name": "Google",
+      "icon": "",
+      "url": "https://www.google.com/search?q=%s"
+    },
+    {
+      "id": "yandex",
+      "name": "Яндекс",
+      "icon": "",
+      "url": "https://yandex.ru/search/?text=%s"
+    },
+    {
+      "id": "ddg",
+      "name": "DuckDuckGo",
+      "icon": "",
+      "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+      "id": "bing",
+      "name": "Bing",
+      "icon": "",
+      "url": "https://www.bing.com/search?q=%s"
+    },
+    {
+      "id": "762455b3-f8ea-490a-b48d-0d44904be272",
+      "name": "Nyxis",
+      "url": "http://nyxis.i2p/search?q=%s",
+      "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cellipse cx='16' cy='16' rx='14' ry='9' fill='none' stroke='%236bdfff' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='4.5' fill='%236bdfff'/%3E%3Ccircle cx='16' cy='16' r='1.5' fill='%230a0e14'/%3E%3C/svg%3E"
+    }
+  ],
+  "defaultEngine": "google",
+  "activeEngine": "yandex",
+  "searchHistory": [
+  ],
+  "tiles": [
+    {
+      "id": "24645fdf-9f94-48e7-bcd1-ffaa02d6c5d1",
+      "name": "Yandex",
+      "url": "https://ya.ru",
+      "image": "https://cyber.dabamos.de/88x31/yandex.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "b2e70462-e24c-4414-8ca6-8a7e3836f92a",
+      "name": "Button Generator",
+      "url": "https://88x31.datakra.sh",
+      "image": "https://88x31.datakra.sh/datakrash_88x31buttongenerator.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "a4ab6246-f1aa-4b50-9d32-e6c2a31273dc",
+      "name": "exo.pet",
+      "url": "https://exo.pet/",
+      "image": "https://exo.pet/images/buttons/88x31/fdfdfd.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "19bd2fbd-33b3-406d-a7bf-302aee974a63",
+      "name": "twitter",
+      "url": "https://x.com/home",
+      "image": "https://yesterhost.neocities.org/archive/buttons/button454.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "70e98120-2306-4dfa-acb3-546cbbdce01f",
+      "name": "github",
+      "url": "http://github.com/",
+      "image": "https://88x31imgs.blob.core.windows.net/images/github.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "0bbf203a-5b07-4ffa-9cde-b03662b0f109",
+      "name": "BTDigg",
+      "url": "http://ru.btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/index.html",
+      "image": "https://88x31imgs.blob.core.windows.net/images/seedyourtorrents.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e0e43cb7-9d33-4338-bced-72d54a8896ee",
+      "name": "2ip",
+      "url": "https://2ip.ru/",
+      "image": "https://uguide.su/logo/1/2ip.webp",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "1f34d091-afa5-4b61-8baa-dfebec6d3d46",
+      "name": "pixiv",
+      "url": "https://www.pixiv.net/en/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e239ee75-fbcc-45f7-bc36-c7296bc4d7c4",
+      "name": "Google",
+      "url": "https://www.google.com/?hl=ru_ru",
+      "image": "https://cyber.dabamos.de/88x31/google.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "c93b54e5-a744-4799-b19e-5037df9468ba",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "image": "https://pizzalair.neocities.org/radbuttons/ytbutton.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e3cc039a-a46b-4c92-af5d-057ee821d48c",
+      "name": "Neocities",
+      "url": "https://neocities.org/",
+      "image": "https://yesterhost.neocities.org/archive/buttons/button449.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "aa7cc0fc-0709-4dae-b897-bf331d58e84c",
+      "name": "TikTok",
+      "url": "https://tiktok.com/",
+      "image": "https://yesterhost.neocities.org/archive/buttons/button352.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "ea705113-3a80-478a-aabc-dcae1fb795d4",
+      "name": "i2pd",
+      "url": "http://i2pd.i2p/",
+      "image": "https://psv4.vkuserphoto.ru/s/v1/d2/KFt6itXP6jN2JQSyhP5RLCwCyMYCjOfMYmXTszufGkGsHvy-jlkFx7uYmcp_6lALI5oBk7jKCL5chF5lMj_KOmnau_Rd-SYtqyNQIUbe5W-9PFcr5pqKuJvwwLpK3qSm8QGIdm3AsbVY/i2pd-button-88x31.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "d4ab4153-c4fd-42fb-9183-96f555e166db",
+      "name": "Chat GPT",
+      "url": "https://chatgpt.com/",
+      "image": "https://static.tildacdn.com/tild6333-6366-4436-b435-333965623330/5.jpeg",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "5b0e04e8-a5dd-4438-a0ce-71f4dc2251e6",
+      "name": "ВКонтакте",
+      "url": "https://vk.ru/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "92d60029-0833-4bdd-ab08-e24c1a220326",
+      "name": "Magma",
+      "url": "https://magma.com/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "f539d431-cf7f-4f02-a308-7d79d5b79376",
+      "name": "Календарь",
+      "url": "https://calendar.google.com/calendar/u/0/r",
+      "image": "https://habrastorage.org/r/w1560/getpro/habr/post_images/85c/2ee/db4/85c2eedb4fb9d7c4576841da27d8c59f.jpg",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "d5b3c4a5-79c1-4229-a24b-70bf46f7f0d3",
+      "name": "MAX",
+      "url": "https://web.max.ru/",
+      "image": "https://ipschool.ru/kno_10.jpg",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "180778d0-0aef-4e8e-95d2-665763f49962",
+      "name": "Unredacted",
+      "url": "https://unredacted.org/",
+      "image": "https://unredacted.org/wp-content/uploads/2024/07/new_unredacted_logo-e1720217150918-768x145.png",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "1cebfb8d-27be-4d2a-ac16-d021983099f3",
+      "name": "lainchan",
+      "url": "https://lainchan.org/mega/catalog.html",
+      "image": "https://psv4.vkuserphoto.ru/s/v1/d2/QMAAHUihrpyD6YEqYAqdasV3SZbP-SKclSQ81plhImBvrp46SgSbPW2Q9gxzb4Cx7l-9BLTM5zmWJm4q1WA06-ADjEO-QjMvXzuwI3kJLvWEIl7KkMuewJoWSTLesZoUYR3bOO4u-3gc/lainchan_org.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "ccdab58d-ff87-4a34-b280-8d48732b681a",
+      "name": "Nowhere",
+      "url": "http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/index.html",
+      "image": "https://sun9-12.vkuserphoto.ru/s/v1/ig2/bmhnXjlb48ZifG-hCs-83u05cJlOdn-N5H8_KfgCUvHMKj1XHccMBlXTe3qRt8BEDZLjFBaRnTJVukD7ZDr2S4b2.jpg?quality=95&as=32x8,48x12,72x18,108x27,160x40,240x60&from=bu&u=BWQqYvN6Trj0cNfNXZnCBNJSR6hGkF5nmnQGNwLQj0U&cs=240x0",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "e2560e0d-44d3-41fa-aae0-c714ff8b5e29",
+      "name": "/webring/",
+      "url": "https://猫.移动/webring/",
+      "image": "https://猫.移动/webring/banners/xn-neko.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "f9ba02fd-9bc0-4111-b612-500d01d174ce",
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "0dd9148c-b66e-434c-994b-212667ed089c",
+      "name": "Game Database",
+      "url": "https://refuge.tokyo/index.html",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "0e7a8707-a276-4118-b369-3d418bd07576",
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/",
+      "image": "https://pclosmag.com/html/Issues/202402/images/page07/ICYMI05.png",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "024771ab-4d1a-4930-a7b0-e75dafb250e9",
+      "name": "Wayback Machine",
+      "url": "https://web.archive.org/",
+      "image": "https://avatars.mds.yandex.net/i?id=23d2fbdff3d86210915a40b77e6b30911b80e369-10498726-images-thumbs&n=13",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "c51dce3f-c3d5-44fc-abff-8f8bb12f8000",
+      "name": "Family Echo",
+      "url": "https://www.familyecho.com/",
+      "image": "https://www.tarphoid.com/images/CKDV/ckdvFAM/logo-160x32.gif",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "c0c3b60d-bf6e-4b3b-a198-571e16894ab0",
+      "name": "VPN Generator",
+      "url": "https://vpn.works/",
+      "image": "https://sun9-74.vkuserphoto.ru/s/v1/ig2/avSB0eAesU0rHYpC1gytnH-FAH4_qZQmHYcbJVXzkngikq0VdxkA9_wEEXCVYdf5wn7nCIhUx9KUgSKPb4lbowRi.jpg?quality=95&as=32x6,48x10,72x14,108x22,160x32,240x48,251x50&from=bu&u=CAU7UoRFPxxtXB2bxC87fEhrLTg1FWRVIxnW20wvbOg&cs=251x0",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "2c8af3da-faca-4fe1-a72f-f3a5e63a7bca",
+      "name": "DeadDuck",
+      "url": "https://dead0duck.ru/",
+      "image": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/ujcgyoknsnLUJhBjbK9kGIZ1bnW-gc0QXGzWMiqmw_LDB5HWiRCx51rYt2-T0HmjiDfGfc6Sipm4j5oegERMD5n-.jpg?quality=95&as=32x11,48x17,72x25,88x31&from=bu&u=Y3bCBhYc9fN2NQFtXnCo-fjjx-SiMqYc-RdPWaeaTxE&cs=88x0",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "782a4cfc-7bd7-4af8-8f12-0a5716da3ac8",
+      "name": "Rule 34",
+      "url": "https://rule34.xxx/",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsAk65B_b2JuQZGRiyfSImlUF67Yb_O_gO1yB0tCXRwGKsM_P5YlOlyIxFc72lKc6TehAx_dg8dle3PzcLU8KZY2kDFPARta7pq8ZaHm_s_cJc8qDj2xNvAjxnoNX82WzoJn66zRfNmzQ/s1600/opera_2018-08-20_14-55-07.png",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "dd81cfd1-4cb8-4452-9d6e-dd6ff5304277",
+      "name": "СберБанк",
+      "url": "https://online.sberbank.ru/app/main",
+      "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 176 62' preserveAspectRatio='xMidYMid meet'%3E%3Crect x='0' y='0' width='176' height='62' fill='white'/%3E%3Cg transform='translate(11 19)'%3E%3Cpath d='M68.8649 7.66613L72.2871 5.1945H60.8301V20H72.2871V17.5284H64.1036V13.7483H71.0968V11.2766H64.1036V7.66613H68.8649Z' fill='%2321A038'/%3E%3Cpath d='M52.6472 10.9616H48.8718V7.66613H54.9125L58.1688 5.1945H45.7571V20H52.2461C55.8799 20 57.98 18.3038 57.98 15.3475C57.98 12.5124 56.0923 10.9616 52.6472 10.9616ZM52.1281 17.5284H48.8718V13.4332H52.1281C54.1102 13.4332 55.0305 14.1117 55.0305 15.4929C55.0305 16.8741 54.0394 17.5284 52.1281 17.5284Z' fill='%2321A038'/%3E%3Cpath d='M80.671 5.1945H74.5864V20H77.7863V15.8079H80.6953C84.5739 15.8079 86.9981 13.7725 86.9981 10.5012C86.9981 7.22996 84.5739 5.1945 80.671 5.1945ZM80.5983 13.3363H77.762V7.66613H80.5983C82.6588 7.66613 83.7739 8.68385 83.7739 10.5012C83.7739 12.3186 82.6588 13.3363 80.5983 13.3363Z' fill='%2321A038'/%3E%3Cpath d='M41.3754 16.4981C40.4789 16.9467 39.4799 17.1828 38.4553 17.1828C35.407 17.1828 33.2041 15.1759 33.2041 12.4135C33.2041 9.65117 35.407 7.64432 38.4553 7.64432C39.5567 7.62071 40.6326 7.95125 41.5291 8.5415L43.9626 6.8888L43.8089 6.74714C42.4001 5.59025 40.5045 5 38.3528 5C36.0218 5 33.8957 5.73191 32.3588 7.05407C30.8218 8.42345 29.9509 10.3359 30.0021 12.3191C29.9765 14.326 30.8218 16.262 32.3588 17.6786C33.9725 19.0716 36.1243 19.8507 38.3272 19.8035C40.7607 19.8035 42.8867 19.0243 44.3212 17.6077L42.1439 16.1203L41.3754 16.4981Z' fill='%2321A038'/%3E%3Cpath d='M122.192 5.02127V19.9968H125.332V13.8693H132.017V19.9968H135.157V5.02127H132.017V11.1732H125.332V5.02127H122.192ZM116.791 19.9968H120.098L113.96 5.02127H110.772L104.515 19.9968H107.68L108.94 16.9821H115.602L116.791 19.9968ZM109.892 14.4821L112.319 8.47716L114.603 14.4821H109.892ZM142.199 13.9428H144.15L148.956 19.9723H153L146.577 12.2272L152.191 4.99677H148.599L143.936 11.4183H142.199V4.99677H139.059V19.9723H142.199V13.9428ZM94.1429 10.8546V7.52127H102.351V5.02127H91.0026V19.9968H97.545C101.209 19.9968 103.326 18.2811 103.326 15.2909C103.326 12.4232 101.423 10.8546 97.9494 10.8546H94.1429ZM94.1429 17.4968V13.3546H97.426C99.4244 13.3546 100.352 14.0409 100.352 15.4379C100.352 16.835 99.3768 17.5213 97.426 17.5213H94.1429V17.4968Z' fill='%2321A038'/%3E%3Cpath d='M21.4936 4.68178C22.0611 5.41478 22.534 6.21873 22.9359 7.06996L12.0118 15.133L7.42462 12.2483V8.79607L11.9882 11.6571L21.4936 4.68178Z' fill='%2321A038'/%3E%3Cpath d='M2.7665 12.0118C2.7665 11.8463 2.7665 11.7044 2.79015 11.5389L0.023645 11.397C0.023645 11.5862 0 11.799 0 11.9882C0 15.2985 1.34778 18.3015 3.52315 20.4768L5.48571 18.5143C3.8069 16.8591 2.7665 14.5655 2.7665 12.0118Z' fill='url(%23paint0)'/%3E%3Cpath d='M11.9882 2.79015C12.1537 2.79015 12.2955 2.79015 12.4611 2.8138L12.6029 0.0472961C12.4138 0.0472961 12.201 0.0236511 12.0118 0.0236511C8.70146 0.0236511 5.6985 1.37143 3.52313 3.5468L5.48569 5.50937C7.14087 3.83055 9.45811 2.79015 11.9882 2.79015Z' fill='url(%23paint1)'/%3E%3Cpath d='M11.9882 21.2335C11.8227 21.2335 11.6808 21.2335 11.5153 21.2099L11.3734 23.9764C11.5626 23.9764 11.7754 24 11.9645 24C15.2749 24 18.2778 22.6522 20.4532 20.4769L18.4907 18.5143C16.8355 20.2168 14.5419 21.2335 11.9882 21.2335Z' fill='url(%23paint2)'/%3E%3Cpath d='M17.1901 4.39803L19.531 2.67192C17.4739 1.01675 14.8492 0 11.9882 0V2.7665C13.9271 2.79015 15.7241 3.38128 17.1901 4.39803Z' fill='url(%23paint3)'/%3E%3Cpath d='M24 12.0118C24 11.2788 23.9291 10.5695 23.8109 9.86009L21.2335 11.7754C21.2335 11.8463 21.2335 11.9409 21.2335 12.0118C21.2335 14.731 20.0513 17.1665 18.1833 18.8453L20.0513 20.9025C22.4631 18.7271 24 15.535 24 12.0118Z' fill='%2321A038'/%3E%3Cpath d='M11.9881 21.2335C9.2689 21.2335 6.83343 20.0512 5.15462 18.1833L3.09747 20.0512C5.29649 22.4867 8.46496 24 11.9881 24V21.2335Z' fill='url(%23paint4)'/%3E%3Cpath d='M5.81675 5.17833L3.94877 3.12119C1.5133 5.3202 0 8.48867 0 12.0118H2.7665C2.7665 9.31626 3.94877 6.85715 5.81675 5.17833Z' fill='url(%23paint5)'/%3E%3Cdefs%3E%3ClinearGradient id='paint0' x1='4.09222' y1='20.1402' x2='1.0629' y2='11.3837'%3E%3Cstop offset='.1444' stop-color='%23F2E913'/%3E%3Cstop offset='.891' stop-color='%23A3CD39'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint1' x1='4.31173' y1='4.02952' x2='12.114' y2='1.05622'%3E%3Cstop offset='.0592' stop-color='%230FA8E0'/%3E%3Cstop offset='.9234' stop-color='%230291EB'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint2' x1='11.211' y1='22.3097' x2='20.034' y2='20.3156'%3E%3Cstop offset='.1226' stop-color='%23A3CD39'/%3E%3Cstop offset='.8693' stop-color='%2321A038'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint3' x1='11.4197' y1='.933233' x2='18.9632' y2='3.26074'%3E%3Cstop offset='.0566' stop-color='%230291EB'/%3E%3Cstop offset='.79' stop-color='%230C8ACB'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint4' x1='3.8009' y1='19.7064' x2='12.0121' y2='22.7744'%3E%3Cstop offset='.1324' stop-color='%23F2E913'/%3E%3Cstop offset='.9829' stop-color='%23A3CD39'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint5' x1='1.03767' y1='12.346' x2='4.33369' y2='3.77183'%3E%3Cstop offset='.0698' stop-color='%23A3CD39'/%3E%3Cstop offset='.9216' stop-color='%230FA8E0'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "d4879e6a-22e9-4a63-be78-bc9501766e1a",
+      "name": "Ozon",
+      "url": "https://ozon.kz/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    },
+    {
+      "id": "181bd1a4-2c33-4691-a8fb-47e9af1ca253",
+      "name": "T bank",
+      "url": "https://www.tbank.ru/mybank/",
+      "image": "",
+      "w": 1.5,
+      "h": 1.5,
+      "label": false
+    }
+  ]
+}
